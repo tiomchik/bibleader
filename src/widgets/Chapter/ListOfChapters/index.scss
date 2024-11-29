@@ -1,0 +1,17 @@
+.list-of-chapters {
+  position: sticky;
+  bottom: 0;
+  margin-top: 30px;
+  padding: 5px 0 3px;
+  background-color: #fafafa;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px -1px 9px;
+
+  ul {
+    list-style: none;
+    gap: 15px;
+    overflow-x: scroll;
+    padding-bottom: 2px;
+  }
+}

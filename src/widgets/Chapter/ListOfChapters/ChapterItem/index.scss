@@ -1,0 +1,11 @@
+@import "../../../../app/styles/variables";
+
+.chapter-item {
+  padding: 0 5px;
+
+  &.current {
+    border: 1px solid $accentColor;
+    border-radius: 6px;
+    color: $accentColor;
+  }
+}

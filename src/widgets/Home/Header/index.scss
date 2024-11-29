@@ -1,0 +1,9 @@
+.header {
+  border-bottom: 2px solid rgb(108, 88, 76, 0.4);
+  margin-bottom: 30px;
+  padding-bottom: 12px;
+
+  h1 + .center-text {
+    margin-top: 5px;
+  }
+}

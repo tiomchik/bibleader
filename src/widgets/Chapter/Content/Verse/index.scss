@@ -1,0 +1,16 @@
+.verse {
+  .number {
+    height: 20px;
+    width: 75px;
+    opacity: 0.65;
+  }
+
+  .text {
+    width: 99%;
+
+    &.psalm-heading {
+      font-style: italic;
+      opacity: 0.9;
+    }
+  }
+}
